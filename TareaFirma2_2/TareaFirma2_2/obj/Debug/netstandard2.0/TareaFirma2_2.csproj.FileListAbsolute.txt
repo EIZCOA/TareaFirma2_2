@@ -1,0 +1,16 @@
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\bin\Debug\netstandard2.0\TareaFirma2_2.deps.json
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\bin\Debug\netstandard2.0\TareaFirma2_2.dll
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\bin\Debug\netstandard2.0\ref\TareaFirma2_2.dll
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\bin\Debug\netstandard2.0\TareaFirma2_2.pdb
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\TareaFirma2_2.csproj.AssemblyReference.cache
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\TareaFirma2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\Views\SingsPage.xaml.g.cs
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\TareaFirma2_2.AssemblyInfoInputs.cache
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\TareaFirma2_2.AssemblyInfo.cs
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\TareaFirma2_2.csproj.CoreCompileInputs.cache
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\TareaFirma2_2.dll
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\ref\TareaFirma2_2.dll
+C:\Users\Fausto\source\repos\TareaFirma2_2\TareaFirma2_2\TareaFirma2_2\obj\Debug\netstandard2.0\TareaFirma2_2.pdb
